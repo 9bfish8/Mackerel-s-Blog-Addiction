@@ -14,13 +14,14 @@
 
 ## 📚 다루는 주제들
 
-1. **렌더링 방식**: CSR vs SSR과 리액트의 렌더링 방식까지
+## 📚 다루는 주제들
+
+1. **[렌더링 방식](./com/SevenPrincesses/1bfish106/렌더링방식.md)**: CSR vs SSR과 리액트의 렌더링 방식까지
 2. **React**: 대체 리액트가 뭐고 훅이 뭔데?
 3. **Next.js**: SSR이고 CSR이고 하나만 해라
 4. **Nest.js**: 아니 node.js로 백엔드를 한다고?
 5. **TypeScript**: 타입 안정성이라는 이름의 마약 (ㄹㅇ 마약임)
 6. **상태 관리**: Redux VS MobX VS Recoil 삼파전 구경하기 근데 이제 Zustand를 곁들인
-
 그리고 원하는 주제가 생기면 계속 추가될 예정
 
 ## 🎭 학습 스타일
