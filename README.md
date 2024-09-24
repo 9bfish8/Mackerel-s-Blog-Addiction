@@ -14,8 +14,6 @@
 
 ## 📚 다루는 주제들
 
-## 📚 다루는 주제들
-
 1. **[렌더링 방식](./com/SevenPrincesses/1bfish106/렌더링방식.md)**: CSR vs SSR과 리액트의 렌더링 방식까지
 2. **React**: 대체 리액트가 뭐고 훅이 뭔데?
 3. **Next.js**: SSR이고 CSR이고 하나만 해라
