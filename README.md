@@ -14,7 +14,7 @@
 
 ## 📚 다루는 주제들
 
-1. **[렌더링 방식](com/SevenPrincesses/1bfish106/렌더링방식.md)**: CSR vs SSR과 리액트의 렌더링 방식까지
+1. **[렌더링 방식]([com/SevenPrincesses/1bfish106/렌더링방식.md](https://github.com/9bfish8/Mackerel-s-Blog-Addiction/blob/main/com/SevenPrincesses/1bfish106%20/%EB%A0%8C%EB%8D%94%EB%A7%81%EB%B0%A9%EC%8B%9D.md))**: CSR vs SSR과 리액트의 렌더링 방식까지
 2. **React**: 대체 리액트가 뭐고 훅이 뭔데?
 3. **Next.js**: SSR이고 CSR이고 하나만 해라
 4. **Nest.js**: 아니 node.js로 백엔드를 한다고?
